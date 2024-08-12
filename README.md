@@ -2,7 +2,7 @@
 
 meu nome e Marlonkelvin
 
-estou estudando na alura
+estou estudando na [alura](https://www.alura.com.br)
 estou me desenvolvendo na linguagem JvaScript
 uso este expaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,4 @@ marlonkelvin@escola
 
 @marlonkelvin
 
-![]()
-![image](https://github.com/user-attachments/assets/0c8aa658-118e-4bc5-a68e-d141b50c8eb2
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
